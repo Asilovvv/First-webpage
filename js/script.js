@@ -2,14 +2,6 @@ const myHeading = document.querySelector("h1");
 
 
 myHeading.textContent = "Hello, World!";
-/* let myVariable = "Erdan";
-alert(myVariable)
-
-myVariable = "Nurdin";
-alert(myVariable); */
-
-// CTRL + /  - single line comment
-// CTRL + SHIFT + A  - multi line comment
 
 let myFirstArray = [15, 'Bermet', true, false, 12.5]
 
@@ -19,7 +11,7 @@ function multiply(num1, num2){
 }
 
 function sayHello(){
-    alert("Hello my dear!");
+    alert("Hello my reader!");
     console.log("It is console.log");
     console.error("It is error message");
 
