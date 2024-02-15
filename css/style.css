@@ -1,0 +1,47 @@
+/*font-family: "Protest Guerrilla", sans-serif;*/
+h1{
+    font-family: "Protest Guerrilla", sans-serif;
+    
+}
+img{
+    width: 250px;
+    display: block;
+    margin: auto;
+
+}
+p{
+    border: 1px solid black;
+    padding: 5px;
+
+}
+p,
+li,
+h1,
+a {
+    color: black;
+}
+li:hover{
+    color: black;
+}
+
+.small-p {
+    line-height: 2;
+    border: 1px solid red;
+    margin: 10px;
+    padding: 5px;
+}
+
+a{
+    display: block;
+}
+.big-p {
+    letter-spacing: -1px;
+}
+body{
+    background-color: black;
+    border: 100px solid aquamarine;
+    padding: 10px;
+    margin: 150;
+
+}
+
